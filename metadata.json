@@ -1,0 +1,10 @@
+{
+  "name": "Remix QuitTrack - Quit Smoking PWA",
+  "description": "Mobile-first smoking cessation tracker with craving rescue interventions, health recovery milestones, financial savings, and behavior analytics.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
